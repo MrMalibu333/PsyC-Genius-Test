@@ -1,1 +1,17 @@
+{
+  "name": "psy-c-genius-test",
+  "version": "1.0.0",
+  "description": "An interactive quiz for personal transformation using the PsyC framework.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
 
