@@ -1,4 +1,4 @@
-# PsyC Genius Test # PsyC Genius Test  
+# PsyC Genius Test
 
 ### 🌟 Interactive Quiz for Personal Transformation  
 
